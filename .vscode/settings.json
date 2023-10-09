@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "FCFS.C": "cpp"
+        "FCFS.C": "cpp",
+        "FCFS_project.C": "cpp"
     }
 }
